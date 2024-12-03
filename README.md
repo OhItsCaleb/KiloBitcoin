@@ -2,7 +2,7 @@
 
 ## Introduction
 
-KiloBitcoin is a decentralized, ultra-lightweight, and scalable blockchain designed to enable **everyone to be their own bank**. It aligns with Bitcoin's original vision of decentralization and financial sovereignty while overcoming the limitations of accessibility, speed, and scalability. By leveraging advanced technologies like **Proof of History (PoH)** and a **Directed Acyclic Graph (DAG)**, KiloBitcoin creates a fast, inclusive, and eco-friendly blockchain.
+KiloBitcoin is a decentralized, ultra-lightweight, and scalable blockchain designed to enable **everyone to be their own bank**. It aligns with Bitcoin's original vision of decentralization and financial sovereignty while overcoming the limitations of accessibility, speed, and scalability. By leveraging advanced technologies like **Proof of History (PoH)**, **UNLs** and a **Directed Acyclic Graph (DAG)**, KiloBitcoin aims to create a fast, inclusive, and eco-friendly blockchain.
 
 ---
 
